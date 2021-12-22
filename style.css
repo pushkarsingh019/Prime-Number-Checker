@@ -1,1 +1,31 @@
 /* The CSS file behind this website */
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    /* position: absolute;
+    top: 50%;
+    left: 50%; */
+}
+
+/* #txt-output{
+    color: gray;
+} */
+#btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    border-radius: 321312px;
+  }
+
+
+
+
+
